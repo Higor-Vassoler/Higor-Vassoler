@@ -1,8 +1,33 @@
-<div style="display: flex; aligh-itens: center;">
-  <a href="https://github.com/Higor-Vassoler/github-readme-stats">
-    <img height=200 align="top" src="https://github-readme-stats.vercel.app/api?username=Higor-Vassoler&show_icons=true&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Higor-Vassoler">
-    <img height=200 align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=Higor-Vassoler&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-  </a>
+<div align="center">
+    <h1>Olá! Meu nome é Higor Vassoler!</h1>
+    <p>Atualmente realizo o curso de Ciência da Computação na <strong>Universidade Tecnológica Federal do Paraná (UTFPR)</strong>.
+    </p>
+    <br>
+</div>
+
+<div>
+    <h2>Status:</h2>
+    <div align="center">
+        <img width=400 align="top"
+            src="https://github-readme-stats.vercel.app/api?username=Higor-Vassoler&show_icons=true&theme=tokyonight"
+            alt="GitHub Stats" />
+        <img width=400 align="top"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=Higor-Vassoler&layout=compact&langs_count=8&card_width=320&theme=tokyonight"
+            alt="Top Languages" />
+    </div>
+</div>
+
+<div>
+    <h2>Aprendendo agora</h2>
+    <img src="https://img.shields.io/badge/CSS-black?style=flat-square&logo=css" style="height: 30px !important;" />
+    <img src="https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5" style="height: 30px !important;" />
+    <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript"
+        style="height: 30px !important;" />
+    <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=React" style="height: 30px !important;" />
+    <img src="https://img.shields.io/badge/NodeJs-black?style=flat-square&logo=nodedotjs"
+        style="height: 30px !important;" />
+    <img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=express"
+        style="height: 30px !important;" />
+    <img src="https://img.shields.io/badge/Sequelize-black?style=flat-square&logo=sequelize"
+        style="height: 30px !important;" />
 </div>
