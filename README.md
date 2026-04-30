@@ -36,11 +36,11 @@
 <div>
     <h2>Contatos 📞</h2>
 </h2>
-    <a href="https://www.instagram.com/higor_vassolerofc/" target="_blank">
+    <a href="https://www.instagram.com/higor_vassolerofc/">
         <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram"
             style="height: 30px !important;" />
     </a>
-    <a href="https://www.instagram.com/higor_vassolerofc/" target="_blank">
+    <a href="https://www.instagram.com/higor_vassolerofc/">
         <img src="https://img.shields.io/badge/EMAIL-white?style=flat-square&logo=gmail"
             style="height: 30px !important;" />
     </a>
