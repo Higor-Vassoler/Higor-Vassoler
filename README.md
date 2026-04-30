@@ -1,6 +1,7 @@
 <div align="center">
     <h1>Olá! Meu nome é Higor Vassoler!</h1>
-    <p>Atualmente realizo o curso de Ciência da Computação na <strong>Universidade Tecnológica Federal do Paraná (UTFPR)</strong>.
+    <p>Atualmente estou cursando Ciência da Computação na <strong>Universidade Tecnológica Federal do Paraná
+            (UTFPR)</strong>.
     </p>
     <br>
 </div>
@@ -30,4 +31,16 @@
         style="height: 30px !important;" />
     <img src="https://img.shields.io/badge/Sequelize-black?style=flat-square&logo=sequelize"
         style="height: 30px !important;" />
+</div>
+
+<div>
+    <h2>Contatos:</h2>
+    <a href="https://www.instagram.com/higor_vassolerofc/">
+        <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram"
+            style="height: 30px !important;" />
+    </a>
+    <a href="https://www.instagram.com/higor_vassolerofc/">
+        <img src="https://img.shields.io/badge/EMAIL-black?style=flat-square&logo=gmail"
+            style="height: 30px !important;" />
+    </a>
 </div>
