@@ -7,7 +7,7 @@
 </div>
 
 <div>
-    <h2>Status 👾</h2>
+    <h2>User Stats 👾</h2>
     <div align="center">
         <img width=400 align="top"
             src="https://github-readme-stats.vercel.app/api?username=Higor-Vassoler&show_icons=true&theme=tokyonight"
@@ -19,7 +19,7 @@
 </div>
 <br>
 <div>
-    <h2>Aprendendo agora ✍️</h2>
+    <h2>Learning now ✍️</h2>
     <img src="https://img.shields.io/badge/CSS-black?style=flat-square&logo=css" style="height: 30px !important;" />
     <img src="https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5" style="height: 30px !important;" />
     <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript"
@@ -34,7 +34,7 @@
 </div>
 <br>
 <div>
-    <h2>Contatos 📞</h2>
+    <h2>Contacts 📞</h2>
 </h2>
     <a href="https://www.instagram.com/higor_vassolerofc/">
         <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram"
