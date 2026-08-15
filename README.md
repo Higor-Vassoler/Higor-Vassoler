@@ -18,7 +18,6 @@
     <img src="https://img.shields.io/badge/Sequelize-black?style=flat-square&logo=sequelize"
         style="height: 30px !important;" />
 </div>
-<br>
 <div>
     <h2>Contacts 📞</h2>
 </h2>
