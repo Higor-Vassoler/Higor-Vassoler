@@ -3,21 +3,7 @@
     <p>Atualmente estou cursando Ciência da Computação na <strong>Universidade Tecnológica Federal do Paraná
             (UTFPR)</strong>.
     </p>
-    <br>
 </div>
-
-<div>
-    <h2>User Stats 👾</h2>
-    <div align="center">
-        <img width=400 align="top"
-            src="https://github-readme-stats.vercel.app/api?username=Higor-Vassoler&show_icons=true&theme=tokyonight"
-            alt="GitHub Stats" />
-        <img width=400 align="top"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=Higor-Vassoler&layout=compact&langs_count=8&card_width=320&theme=tokyonight"
-            alt="Top Languages" />
-    </div>
-</div>
-<br>
 <div>
     <h2>Learning now ✍️</h2>
     <img src="https://img.shields.io/badge/CSS-black?style=flat-square&logo=css" style="height: 30px !important;" />
